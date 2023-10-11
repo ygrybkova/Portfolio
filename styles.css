@@ -16,10 +16,12 @@ h3 {
 
 h1 {
   font-size: 96px;
+  font-family: "Playfair Display", serif;
 }
 
 h2 {
   font-size: 48px;
+  font-family: "Playfair Display", serif;
 }
 
 h3 {
@@ -34,6 +36,9 @@ p {
 }
 .text-center {
   font-family: "Poppins", sans-serif;
+}
+h1.text-center {
+  font-family: "Playfair Display", serif;
 }
 
 .navigation-links {
