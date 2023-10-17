@@ -21,7 +21,7 @@ h1 {
 
 h2 {
   font-size: 48px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Playfair Display", serif;
 }
 
 h3 {
@@ -58,13 +58,14 @@ h1.text-center {
 }
 
 .content h1 {
-  font-size: 40px;
-  line-height: 60px;
+  font-size: 50px;
+  line-height: 70px;
 }
 
 .content h2 {
   font-size: 18px;
   font-family: "Poppins", sans-serif;
+  color: #6c757d;
 }
 
 .content h3 {
@@ -96,9 +97,9 @@ h1.text-center {
   padding: 20px 30px;
   text-decoration: none;
   text-transform: capitalize;
-  background: var(--primary-color);
 
-  color: white;
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
 }
 
 .secondary-link {
