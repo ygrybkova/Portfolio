@@ -92,7 +92,7 @@ h1.text-center {
 
 .secondary-link {
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 20px 30px;
   text-decoration: none;
   text-transform: capitalize;
   color: var(--primary-color);
